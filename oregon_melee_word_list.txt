@@ -338,6 +338,7 @@ fixed camera mode,
 single button mode,
 lightning melee,
 slo mo melee,
+challenger approaching,
 
 trouble king,
 lord of the jungle,
@@ -644,7 +645,6 @@ rob,
 ken,
 king k rool,
 
-
 male wire frame,
 female wire frame,
 fighting wire frames,
@@ -829,7 +829,6 @@ ayumi tachibana,
 monster,
 sherrif,
 diskun,
-
 
 bowser slam,
 fire breath,
