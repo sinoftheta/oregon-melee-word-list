@@ -555,6 +555,7 @@ failure,
 game,
 continue,
 costume,
+zip zip,
 
 ppmd,
 mew2king,
