@@ -1010,10 +1010,3 @@ ice shot,
 squall hammer,
 belay,
 blizzard,
-
-
-no setup/teardown/on your part. we're pretty atonomous
-we're not trying to profit, we need X to break even. We're 
-definetly interested in returning next year or even multiple 
-times a year. Our guests will definetly be interested in the park itself,
-we're looking to buy about 50 of the discounted ride passes for the first time.
